@@ -5,8 +5,6 @@ Do a Google search with a single click from your DuckDuckGo result list. Sometim
 
 ![2017-01-10 17_22_52-bitbucket op DuckDuckGo.png](https://bitbucket.org/repo/o6Bg65/images/1667346299-2017-01-10%2017_22_52-bitbucket%20op%20DuckDuckGo.png)
 ### How do I get set up? ###
-
-###Load the app###
 To load your app, bring up the apps and extensions management page by clicking the settings icon  and choosing Tools > Extensions.
 
 Make sure the Developer mode checkbox has been selected.
